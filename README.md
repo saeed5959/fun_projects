@@ -6,14 +6,18 @@
     2-face detection in video
     3-face verification
 
-## [2 - BlockChain](blockchain/README.md)
+## [2 - Door Detection](door-detection-yolo/README.md)
+
+    Door detection with yolo model
+
+## [3 - BlockChain](blockchain/README.md)
 
     Making a simulation of bitcoin in blockchain
 
-## [3 - Image Blending](image_blending/README.md)
+## [4 - Image Blending](image_blending/README.md)
 
     Blending 2 image to seems real
 
-## [4 - api and webscraping](api_and_webscraping/README.md)
+## [5 - api and webscraping](api_and_webscraping/README.md)
 
     Making a website that use cryptocurrency price api and gold price webscraping
